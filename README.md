@@ -5,4 +5,4 @@ I am so happy to be here! Looking forward to all the great work I will be doing,
 
 And of course I am looking forward to collaborating with other devs.
 
-This repository includes a test html file, but otherwise it's pretty much just some random text so far.
+This repository includes a test html file and a demo html file, but otherwise it's pretty much just some random text so far.
